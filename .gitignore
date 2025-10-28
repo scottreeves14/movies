@@ -1,3 +1,6 @@
 .venv
 db.sqlite3
-movies/__pycache__/
+movies/__pycache__/*
+pages/__init__.py
+.vscode
+pages/__pycache__/*
