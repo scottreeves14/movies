@@ -5,3 +5,4 @@ pages/__init__.py
 .vscode
 pages/__pycache__/*
 pages/migrations/__pycache__/*
+pages/migrations/
