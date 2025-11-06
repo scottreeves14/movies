@@ -6,3 +6,4 @@ pages/__init__.py
 pages/__pycache__/*
 pages/migrations/__pycache__/*
 pages/migrations/
+data/movies_db.sqlite3
